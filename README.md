@@ -4,8 +4,10 @@
 </div>
   
 🌱 I’m currently learning Full Stack Web Development
+
+
 👯 I’m looking to collaborate on Web Development, JavaScript, Blockchain, and Software Development
 
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/NRa7dRkMlVZRE5HUU4/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 </div>
