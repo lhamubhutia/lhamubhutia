@@ -1,16 +1,16 @@
-### Hi there 👋
+                                                👋 Bonjour, I am Lhamu Bhutia! 
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="100" height="100"/>
+</div>
+  
 
-<!--
-**lhamubhutia/lhamubhutia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+           
+           
+           
+                      🌱 I’m currently learning Full Stack Web Development
+                      👯 I’m looking to collaborate on Web Development, JavaScript, Blockchain, and Software Development
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/NRa7dRkMlVZRE5HUU4/giphy.gif" width="300"/>
+</div>
